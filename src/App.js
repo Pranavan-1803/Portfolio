@@ -19,7 +19,7 @@ function App() {
     <Proficiency />
     <Experince />
     <Education />
-    <Projects />
+    <Projects /> 
     <Contact />
     </div>
     </Router>
