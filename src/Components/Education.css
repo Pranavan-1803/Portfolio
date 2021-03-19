@@ -1,0 +1,12 @@
+.education {
+    padding: 20px;
+    padding-top: 60px;
+    font-family: sans-serif;
+    text-decoration: none;
+    word-spacing: 7px;
+}
+
+.education h1{
+    margin-left: 60px;
+    margin-bottom: 30px;
+}

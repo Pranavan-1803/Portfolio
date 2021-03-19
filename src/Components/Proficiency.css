@@ -1,0 +1,19 @@
+.proficiency {
+    margin-top: 60px;
+    margin-left: 60px;
+    max-width: 100%;
+
+}
+
+.proficiency h3 {
+    font-size: 15px;
+    margin-left: 50px;
+    font-family: sans-serif;
+    color: gray;
+
+}
+
+.proficiency h1 {
+    margin-bottom: 40px;
+
+}

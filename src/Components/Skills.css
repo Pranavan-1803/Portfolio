@@ -1,0 +1,87 @@
+.skills {
+    display: flex;
+    flex-direction:row-reverse;
+    padding-top: 70px;
+}
+
+.SRight {
+    flex: 70%;
+    padding: 0px 80px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.SRight p {
+    color: gray;
+    word-spacing: 7px;
+
+}
+
+.SLeft {
+    flex: 30%;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.inline {
+    display: inline-block;
+    color: gray;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dev_icon {
+    text-align: center;
+
+}
+
+.skillContainer {
+    margin-top: 20px;
+
+}
+
+.inline p {
+    color: #868e96;
+    font-size: 12px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.inline a:hover {
+    color: brown;
+  }
+
+
+  .inline a {
+    text-decoration: none;
+  }
+
+  .skillPara p {
+    font-family: sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    line-height: 1.5;
+    margin-bottom: 5px;
+
+  }
+
+  @media only screen and (max-width: 1000px) {
+     .skills{
+        display:inline;
+
+    }
+
+    .SRight{
+        margin-left: 0px;
+        margin-top: 80px;
+    }
+
+    .SLeft{
+        margin-left: 80px;
+    }
+
+}

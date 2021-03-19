@@ -1,0 +1,105 @@
+.greetings {
+    margin-top: 20px;
+    display: flex;
+
+}
+
+
+.Left button {
+  border-radius: 4px;
+
+}
+
+.Left {
+    flex: 60%;
+    padding: 50px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 2;
+    word-spacing: 7px;
+
+}
+
+.wave-emoji {
+  animation-duration: 1.8s;
+  animation-iteration-count: infinite;
+  animation-name: wave;
+  display: inline-block;
+  transform-origin: 70% 70%;
+}
+
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(-10deg);
+  }
+  20% {
+    transform: rotate(12deg);
+  }
+  30% {
+    transform: rotate(-10deg);
+  }
+  40% {
+    transform: rotate(9deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.greetings .Left button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+
+  .greetings .Left button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.Left h1 {
+    margin-bottom: 20px;
+}
+
+.Left p {
+    color: gray;
+}
+.Right {
+    flex: 40%;
+    margin-top: 100px;
+    margin-right: 50px;
+
+}
+
+
+  @media only screen and (max-width: 1000px) {
+     .greetings{
+         flex-direction: column-reverse;
+         margin: auto;
+
+
+     }
+
+     .Right img {
+      margin: auto;
+      width: 100%;
+      padding: 10px;
+     }
+}
