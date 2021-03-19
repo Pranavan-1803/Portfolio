@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.498e41ed.chunk.css",
+    "main.js": "/Portfolio/static/js/main.12b8bd62.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.12b8bd62.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.864e5426.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.864e5426.js.map",
+    "static/js/2.aa0bf706.chunk.js": "/Portfolio/static/js/2.aa0bf706.chunk.js",
+    "static/js/2.aa0bf706.chunk.js.map": "/Portfolio/static/js/2.aa0bf706.chunk.js.map",
+    "static/js/3.808bedf0.chunk.js": "/Portfolio/static/js/3.808bedf0.chunk.js",
+    "static/js/3.808bedf0.chunk.js.map": "/Portfolio/static/js/3.808bedf0.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.498e41ed.chunk.css.map": "/Portfolio/static/css/main.498e41ed.chunk.css.map",
+    "static/js/2.aa0bf706.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.aa0bf706.chunk.js.LICENSE.txt",
+    "static/media/Amzn.5c3d7465.JPG": "/Portfolio/static/media/Amzn.5c3d7465.JPG",
+    "static/media/Appareltree.2489adb6.jpg": "/Portfolio/static/media/Appareltree.2489adb6.jpg",
+    "static/media/Logo4.6009d595.png": "/Portfolio/static/media/Logo4.6009d595.png",
+    "static/media/Portfolio.41d68081.JPG": "/Portfolio/static/media/Portfolio.41d68081.JPG",
+    "static/media/Pranav1.e70e315c.jpg": "/Portfolio/static/media/Pranav1.e70e315c.jpg",
+    "static/media/Sutherland.d420666b.jpg": "/Portfolio/static/media/Sutherland.d420666b.jpg",
+    "static/media/Tinder.b331545b.JPG": "/Portfolio/static/media/Tinder.b331545b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864e5426.js",
+    "static/js/2.aa0bf706.chunk.js",
+    "static/css/main.498e41ed.chunk.css",
+    "static/js/main.12b8bd62.chunk.js"
+  ]
+}
