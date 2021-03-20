@@ -5,9 +5,9 @@ import Sutherland from '../Images/Sutherland.jpg';
 
 function Experince() {
     return (
-        <div className="Experiences" id="Experience">
-            <h1>Experiences</h1>
-            <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div className="Experiences" >
+            <h1 id="Experience">Experiences</h1>
+            <div class="row row-cols-1 row-cols-md-3 g-4"> 
   <div class="col">
     <div class="card h-100">
       <img src="https://www.aagnaa.in/assets/img/logo.png" class="card-img-top" alt="Aagnaa"></img>

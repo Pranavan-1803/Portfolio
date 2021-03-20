@@ -6,6 +6,7 @@
 }
 
 .Experiences h1 {
+    padding-top: 60px;
     margin-bottom: 30px;
 }
 .Experiences p {
@@ -15,7 +16,7 @@
 @media only screen and (max-width: 500px) {
 
     .Experiences {
-    padding: 60px 25px 0px 25px;
+    padding: 20px 25px 0px 25px;
     word-spacing: 5px;
     }
 }
