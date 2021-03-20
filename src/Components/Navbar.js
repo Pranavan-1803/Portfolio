@@ -19,11 +19,11 @@ function Navbar() {
             </div>
             <div className="RightSide">
                 <div className="Links" id={showLinks ? "hidden" : ""}>
-                <Link smooth to="#Skills">Skills</Link>
-                <Link smooth to="#Experience">Experience</Link>
-                <Link smooth to="#Education">Education</Link>
-                <Link smooth to="#Projects">Projects</Link>
-                <Link smooth to="#Contact">Contact</Link>
+                <Link onClick={() => setShowlinks(!showLinks)} smooth to="#Skills">Skills</Link>
+                <Link onClick={() => setShowlinks(!showLinks)} smooth to="#Experience">Experience</Link>
+                <Link onClick={() => setShowlinks(!showLinks)} smooth to="#Education">Education</Link>
+                <Link onClick={() => setShowlinks(!showLinks)} smooth to="#Projects">Projects</Link>
+                <Link onClick={() => setShowlinks(!showLinks)} smooth to="#Contact">Contact</Link>
                 </div>
                 <button onClick={() => setShowlinks(!showLinks)}><ReorderIcon/></button>
             </div>
