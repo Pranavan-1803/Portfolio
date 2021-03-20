@@ -11,9 +11,9 @@ library.add(fab, fas)
 
 function Skills() {
     return (
-        <div className="skills" id="Skills">
+        <div className="skills" >
             <div className="SRight">
-                <h1>What I do</h1>
+                <h1 id="Skills" >What I do</h1>
                 <p>CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</p>
                 <div className="skillContainer">
                     <ul className="dev_icon">
