@@ -2,8 +2,13 @@
     display: flex;
 }
 
+.contactContainer2{
+    padding-left: 30px;
+
+}
+
 .contact {
-    padding: 60px 0px 0px 60px;
+    padding: 60px 0px 0px 30px;
     font-family: sans-serif;
     text-decoration: none;
 }
@@ -16,7 +21,7 @@
     list-style: none;
     display: flex;
     font-size: 20px;
-    padding-left: 100px;
+    padding-left: 20px;
 }
 
 .left1 {
@@ -37,7 +42,7 @@
 
 .thankyou {
     margin: auto;
-  width: 50%;
+  width: 80%;
   padding: 10px;
   font-size: 17px;
 }
@@ -47,7 +52,7 @@ a:hover {
   }
 
 .contactSymbol {
-    padding: 30px 0px 50px 50px;
+    padding: 30px 0px 20px 20px;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -55,6 +60,7 @@ a:hover {
     .right1 img{
         width: 200px;
         height: 200px;
+        margin: auto;
     }
     .contact_icon {
         padding-bottom: 0px;
@@ -70,4 +76,26 @@ a:hover {
     .contactSymbol {
         padding: 30px 0px 0px 20px;
     }
+}
+
+@media only screen and (max-width: 750px) {
+    .contact {
+        padding-top: 0px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .contactSymbol {
+        padding: 10px 0px 0px 10px;
+    }
+
+    .contact_icon {
+        font-size: 15px;
+        padding-left: 10px;
+    }
+
+    .thankyou p{
+        font-size: 15px;
+    }
+
 }

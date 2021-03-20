@@ -26,8 +26,8 @@
 .inline {
     display: inline-block;
     color: gray;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 
 .dev_icon {
@@ -74,14 +74,49 @@
         display:inline;
 
     }
+        .SLeft img {
+            margin: auto;
+            width: 70%;
+            padding: 20px;
+           }
 
     .SRight{
-        margin-left: 0px;
-        margin-top: 80px;
+        margin: 80px 20px 10px 20px;
+        padding: 20px 20px 0px 20px;
     }
 
-    .SLeft{
-        margin-left: 80px;
+    .SLeft {
+        flex: 30%;
+        margin: 20px 20px 20px 40px;
     }
 
+}
+
+@media only screen and (max-width: 500px) {
+    .SRight{
+        padding: 20px 20px 0px 20px;
+        margin: 40px 20px 0px 20px;
+        font-size: 15px;
+
+    }
+    .inline{
+        margin: 10px;
+    }
+    .dev_icon{
+        padding: 0px;
+    }
+    .SLeft img{
+        width: 320px;
+    }
+    .skillPara p {
+        font-size: 12px;
+      }
+      .SLeft img {
+        margin: auto;
+        width: 70%;
+        margin: 0;
+       }
+       .inline p {
+        font-size: 12px;
+       }
 }

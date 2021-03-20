@@ -1,7 +1,6 @@
 import React from 'react';
 import './Projects.css';
 import Amzn from '../Images/Amzn.JPG'
-import { Link } from 'react-router-dom';
 import Portfolio from '../Images/Portfolio.JPG';
 import Tinder from '../Images/Tinder.JPG';
 
@@ -10,14 +9,13 @@ function Projects() {
         <div className='Proj' id="Projects">
          <h1>Things I did!</h1>
             <div className="projects">
-
-                <Link className="link" href="#">
+                <a className="link" href="#">
                 <img src={Portfolio} alt="Portfolio"></img>
                 <div className="details">
                     <h3>💼 My Portfolio website</h3>
                     <p>👨🏻‍💻 Its the one we are landed in. I created this to express myself digitally</p>
                     <p>⚙️ Made with React and some NPM</p>
-                </div></Link>
+                </div></a>
 
                 <a className="link" href='javascript:;'>
                     <img src={Amzn} alt="amazon"></img>

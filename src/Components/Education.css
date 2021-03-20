@@ -1,12 +1,18 @@
 .education {
-    padding: 20px;
-    padding-top: 60px;
-    font-family: sans-serif;
+    padding: 60px 50px 0px 50px;
+   font-family: sans-serif;
     text-decoration: none;
-    word-spacing: 7px;
+    word-spacing: 10px;
 }
 
 .education h1{
-    margin-left: 60px;
     margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 500px) {
+
+    .education {
+    padding: 30px 25px 0px 25px;
+    word-spacing: 5px;
+    }
 }

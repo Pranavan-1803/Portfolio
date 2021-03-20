@@ -18,7 +18,7 @@ function Contact() {
                     <p>COLAB A PROJECT OR JUST WANT TO SAY HI? FEEL FREE TO INBOX ME.</p>
                     <p>📍 Chennai, Tamilnadu</p>
                 </div>
-                <div className="contactContainer">
+                <div className="contactContainer2">
                 <ul className="contact_icon">
                     <li className="contactSymbol"><a href="https://github.com/Pranavan-1803" target="_blank"><FontAwesomeIcon icon={['fab', 'github']} size="2x"/></a>
                     </li>
@@ -40,7 +40,7 @@ function Contact() {
             </div>
         </div>
         <div className="thankyou">
-            Thats the end of story! Thank You...
+            <p>Thats the end of story! Thank You...</p>
         </div>
         </div>
     )
