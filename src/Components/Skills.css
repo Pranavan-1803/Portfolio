@@ -94,7 +94,7 @@
 
 @media only screen and (max-width: 500px) {
     .SRight{
-        padding: 20px 20px 0px 20px;
+        padding: 60px 20px 0px 20px;
         margin: 40px 20px 0px 20px;
         font-size: 15px;
 
@@ -119,4 +119,4 @@
        .inline p {
         font-size: 12px;
        }
-}
+    }
