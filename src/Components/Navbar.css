@@ -37,6 +37,8 @@ button:hover {
 .Navbar .RightSide button {
     display: none;
     margin-right: 20px;
+    border: none;
+    background: none;
 }
 
 .Navbar .RightSide #hidden{
