@@ -6,8 +6,8 @@ import Tinder from '../Images/Tinder.JPG';
 
 function Projects() {
     return (
-        <div className='Proj' id="Projects">
-         <h1>Things I did!</h1>
+        <div className='Proj' >
+         <h1 id="Projects">Things I did!</h1>
             <div className="projects">
                 <a className="link" href="#">
                 <img src={Portfolio} alt="Portfolio"></img>

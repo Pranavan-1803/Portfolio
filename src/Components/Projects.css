@@ -1,10 +1,11 @@
 .Proj {
-    padding-top: 60px;
+    padding-top: 20px;
     font-family: sans-serif;
     text-decoration: none;
 }
 
 .Proj h1 {
+    padding-top: 60px;
     padding-left: 50px;
 }
 
