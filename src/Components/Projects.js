@@ -28,7 +28,7 @@ function Projects() {
                 <a className="link" href='javascript:;'>
                 <img src={Tinder}alt="tinder"></img>
                     <div className="details">
-                    <h3>💼 Tiner Clone</h3>
+                    <h3>💼 Tinder Clone</h3>
                     <p>💙 Created Tinder clone to learn different features</p>
                     <p>⚙️ Made with React/some NPM/MongoDB/Server communication</p>
                     </div>

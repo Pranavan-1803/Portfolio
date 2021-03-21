@@ -15,7 +15,7 @@ function Contact() {
             <div className="left1">
                 <div className="contact" id="Contact">
                     <h1>Reach Out to Me!</h1>
-                    <p>COLAB A PROJECT OR JUST WANT TO SAY HI? FEEL FREE TO INBOX ME.</p>
+                    <p>COLLAB A PROJECT OR JUST WANT TO SAY HI? FEEL FREE TO INBOX ME.</p>
                     <p>📍 Chennai, Tamilnadu</p>
                 </div>
                 <div className="contactContainer2">
