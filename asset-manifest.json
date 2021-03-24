@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1e4568a0.chunk.css",
-    "main.js": "/Portfolio/static/js/main.d5e8cc23.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d5e8cc23.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.5297c944.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5297c944.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.864e5426.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.864e5426.js.map",
     "static/js/2.f91d6f0e.chunk.js": "/Portfolio/static/js/2.f91d6f0e.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/Logo4.6009d595.png": "/Portfolio/static/media/Logo4.6009d595.png",
     "static/media/Portfolio.41d68081.JPG": "/Portfolio/static/media/Portfolio.41d68081.JPG",
     "static/media/Pranav1.e70e315c.jpg": "/Portfolio/static/media/Pranav1.e70e315c.jpg",
+    "static/media/SS.0c30fa7c.JPG": "/Portfolio/static/media/SS.0c30fa7c.JPG",
     "static/media/Sutherland.d420666b.jpg": "/Portfolio/static/media/Sutherland.d420666b.jpg",
     "static/media/Tinder.b331545b.JPG": "/Portfolio/static/media/Tinder.b331545b.JPG"
   },
@@ -24,6 +25,6 @@
     "static/js/runtime-main.864e5426.js",
     "static/js/2.f91d6f0e.chunk.js",
     "static/css/main.1e4568a0.chunk.css",
-    "static/js/main.d5e8cc23.chunk.js"
+    "static/js/main.5297c944.chunk.js"
   ]
 }
