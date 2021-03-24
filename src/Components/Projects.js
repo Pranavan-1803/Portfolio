@@ -3,6 +3,7 @@ import './Projects.css';
 import Amzn from '../Images/Amzn.JPG'
 import Portfolio from '../Images/Portfolio.JPG';
 import Tinder from '../Images/Tinder.JPG';
+import ss from '../Images/SS.JPG';
 
 function Projects() {
     return (
@@ -17,12 +18,20 @@ function Projects() {
                     <p>⚙️ Made with React and some NPM</p>
                 </div></a>
 
-                <a className="link" href='javascript:;'>
+                <a className="link" href='https://challenge-2ea17.web.app/' target="_blank">
                     <img src={Amzn} alt="amazon"></img>
                     <div className="details">
                     <h3>💼 Amazon Clone</h3>
                     <p>🛒 Created Amazon clone to learn fullstack development</p>
                     <p>⚙️ Made with React/Express/Stripe/Firebase Authentication</p>
+                    </div></a>
+
+                    <a className="link" href='https://github.com/Pranavan-1803/task-withdb-frontend' target="_blank">
+                    <img src={ss} alt="task"></img>
+                    <div className="details">
+                    <h3>📝 Task App</h3>
+                    <p>🛒 Created Task app with realtime database to learn DB</p>
+                    <p>⚙️ Made with React/Express/MongoDB</p>
                     </div></a>
 
                 <a className="link" href='javascript:;'>
