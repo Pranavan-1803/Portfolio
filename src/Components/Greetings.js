@@ -41,7 +41,7 @@ function Greetings() {
                 <Link smooth to="#Contact" rel="noreferrer">
                 <button>Contact Me</button>
                 </Link>
-                <a href="https://we.tl/t-gP7LvYtrGf" target="_blank" rel="noreferrer">
+                <a href="https://we.tl/t-atNUaXI3Dj" target="_blank" rel="noreferrer">
                 <button>Check My Resume</button>
                 </a>
             </div>
